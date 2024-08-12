@@ -1,0 +1,6 @@
+@LunchMate_updated_HostAddress = http://localhost:7206
+
+GET {{LunchMate_updated_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

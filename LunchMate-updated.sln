@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunchMate-updated", "LunchMate-updated.csproj", "{15F07CF3-D841-4D79-8BBE-EAE7CACE03B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\Domain\Domain.csproj", "{1A6CC51C-B823-408C-B332-C8BC404ABC28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "..\DataLayer\DataLayer.csproj", "{2D81A3EA-D8D3-453E-B1C5-319C8D599BC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15F07CF3-D841-4D79-8BBE-EAE7CACE03B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F07CF3-D841-4D79-8BBE-EAE7CACE03B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F07CF3-D841-4D79-8BBE-EAE7CACE03B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F07CF3-D841-4D79-8BBE-EAE7CACE03B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A6CC51C-B823-408C-B332-C8BC404ABC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6CC51C-B823-408C-B332-C8BC404ABC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A6CC51C-B823-408C-B332-C8BC404ABC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A6CC51C-B823-408C-B332-C8BC404ABC28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D81A3EA-D8D3-453E-B1C5-319C8D599BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D81A3EA-D8D3-453E-B1C5-319C8D599BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D81A3EA-D8D3-453E-B1C5-319C8D599BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D81A3EA-D8D3-453E-B1C5-319C8D599BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D26E8523-F05B-42B5-B589-75FE45E29277}
+	EndGlobalSection
+EndGlobal
